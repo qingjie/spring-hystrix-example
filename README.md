@@ -3,7 +3,7 @@ This project depicts the Hystrix with Spring Hystrix and Spring Data REST Exampl
 ## Description
 This Project shows the list of Users which are stored in another microservice `http://localhost:8080/user/hello`
 
-in https://github.com/qingjie/request_reply_kafka
+start this application first: https://github.com/qingjie/request_reply_kafka
 
 Using the following endpoints, different operations can be achieved:
 - `/rest/users` - This returns the list of Users from another microservice(General)
