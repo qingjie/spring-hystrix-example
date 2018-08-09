@@ -13,3 +13,11 @@ Using the following endpoints, different operations can be achieved:
 ![Screenshot](2.png)
 
 # After stop request_reply_kafka.
+
+
+after stop microservice `http://localhost:8080/user/hello`
+![Screenshot](3.png)
+what will it show if it doesn't have hystrix service
+![Screenshot](4.png)
+what will it show if it does have hystrix service
+![Screenshot](5.png)
