@@ -1,8 +1,8 @@
 # Spring Hystrix Example
-This project depicts the Hystrix with Spring Hystrix and Spring Data REST Example.
+- This project depicts the Hystrix with Spring Hystrix and Spring Data REST Example.
 ## Description
-start this application first: https://github.com/qingjie/request_reply_kafka
-This Project shows the list of Users which are stored in another microservice `http://localhost:8080/user/hello`
+- Start this application first: https://github.com/qingjie/request_reply_kafka.
+- This Project shows the list of Users which are stored in another microservice `http://localhost:8080/user/hello`
 ![Screenshot](0.png)
 
 
