@@ -8,3 +8,5 @@ start this application first: https://github.com/qingjie/request_reply_kafka
 Using the following endpoints, different operations can be achieved:
 - `/rest/users` - This returns the list of Users from another microservice(General)
 - `/rest/users/hystriz` - This returns the list of Users and safegaurded by Spring Cloud Hystrix using Fallback implementation.
+
+![Screenshot](0.png)
