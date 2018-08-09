@@ -1,0 +1,8 @@
+server: 
+  port: 8888
+spring: 
+  application: 
+    name: spring-hystrix-example
+client:
+ url:
+  http://localhost:8080/user/hello
